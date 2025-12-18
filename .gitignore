@@ -1,0 +1,6 @@
+# Temporary training folders
+07_reset_revert/revert_demo/
+
+# Editor / OS files
+.vscode/
+.DS_Store
